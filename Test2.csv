@@ -1,7 +1,7 @@
 contextName,area, name, description,team,createdBy,targetTime
 Arena: AD/DC/ShellViewModel/LoggedIn,Pålogging ,"Start opp DIPS 
 ",,Team DUX,, 
-Arena: AD/DC/ShellViewModel/LoggedIn,Pålogging ,"Bruker har bare en rolle.
+Arena: AD/DC/ShellViewModel/LoggedIn ,Pålogging ,"Bruker har bare en rolle.
     .",,Team DUX,, 
 Arena: AD/DC/ShellViewModel/LoggedIn ,Brukerrolle,"Bytt
   brukerrolle ",,Team DUX,, 
