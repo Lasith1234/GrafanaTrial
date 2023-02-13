@@ -1,4 +1,4 @@
-Trace name,area, name, description,team,createdBy,targetTime
+Trace name,area, name,TraceDescription,TeamName,createdBy,targetTime
 Arena: MQ/MedicalCodingInWorkspaceViewModel/Save​*,"Medisinske
   koder ","Velg arkfane
   Medisinsk koding i Oppholdssiden og legg til en diagnosekode ",,"Team Access
